@@ -56,7 +56,7 @@ Pré-requisitos: npm || yarn
 
 ```bash
 # clonar repositório
-git clone 
+git clone https://github.com/Britivaldo/api_farm.git
 
 # entrar na pasta do projeto front end web
 cd api_farm
