@@ -10,7 +10,6 @@ A API FARM é uma aplicação que retorna dados para um cliente sobre estoque, v
 - MYSQL
 
 # Como executar o projeto
-## Requsitos na máquina
 
 ## Crie o Banco
 
