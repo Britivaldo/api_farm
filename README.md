@@ -50,7 +50,7 @@ ALTER TABLE vendas ADD COLUMN id_produto int;
 ALTER TABLE vendas ADD FOREIGN KEY (id_produto) REFERENCES produtos (codigo);
 
 ```
-## Front end web
+## Executando projeto
 Pré-requisitos: npm || yarn
 
 ```bash
